@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background-color: #7d7d7d;
+    background-color: #767676;
 }
 
 a,
@@ -232,7 +232,7 @@ header {
 .column_content .image {
     order: 1;
     width: 40%;
-    background-image: url(baggrund_portfolio.png);
+    background-image: url(baggrund_port_bag.png);
     background-size: 100vw;
     -moz-transition: all 0.4s;
     -webkit-transition: all 0.4s;
@@ -337,7 +337,7 @@ header {
 /* *** FOOTER START *** */
 
 #footer {
-    background-image: url(baggrund.png);
+    background-image: url(baggrund_bag.png);
     background-blend-mode: color;
     padding: 5em 2em 5em 2em;
     background-color: rgba(29, 36, 42, 0.37);
